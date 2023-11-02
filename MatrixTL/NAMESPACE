@@ -1,0 +1,13 @@
+
+importFrom("stats", "rnorm", "runif")
+
+export(F.norm)
+export(SVD.est)
+export(diagonal.matrix)
+export(is_orthogonal)
+export(noise.matrix)
+export(op.norm)
+export(orthogonal.matrix)
+export(orthonormal.matrix)
+export(two.sample.weighted)
+export(vertical.concatenation)
